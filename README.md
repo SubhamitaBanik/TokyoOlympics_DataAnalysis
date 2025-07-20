@@ -1,6 +1,6 @@
-# 🏅 Tokyo Olympics 2020 Data Analysis
+# 🏅 Tokyo Olympics 2021 Data Analysis
 
-This project explores, analyzes, and visualizes data from the **Tokyo 2020 Olympics**, uncovering insights about country-wise performance, athlete achievements, and medal distributions.
+This project explores, analyzes, and visualizes data from the **Tokyo 2021 Olympics**, uncovering insights about country-wise performance, athlete achievements, and medal distributions.
 
 ## 📊 Overview
 
